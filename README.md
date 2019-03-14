@@ -1,1 +1,1 @@
-# student-android-api
+# Sample-DB-App-Conn
